@@ -49,3 +49,5 @@ To support the GlobaLeaks project you can help us with [donations](https://githu
 
 ## License
 GlobaLeaks is released under the [AGPLv3 license](https://github.com/globaleaks/GlobaLeaks/blob/main/LICENSE).
+
+Just putting the flag in a place more visible :) CTFUA{Qu31x1nh4s_t1m3_m4ch1n3}
